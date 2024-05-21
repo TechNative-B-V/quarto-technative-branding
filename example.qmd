@@ -1,0 +1,9 @@
+---
+title: "Quarto-technative-branding Example"
+---
+
+## Heading
+
+{{< quarto-technative-branding >}}
+
+
